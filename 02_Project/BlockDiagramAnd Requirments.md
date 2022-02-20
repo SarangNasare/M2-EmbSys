@@ -1,4 +1,4 @@
-# Elevator
+# Vending Machine
 ## Block Diagram
 ![image](https://user-images.githubusercontent.com/98864424/154816160-7ace07f4-5b51-435c-b6a9-c77004530d59.png)
 
