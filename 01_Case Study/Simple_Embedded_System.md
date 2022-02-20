@@ -4,20 +4,20 @@
 
 ## Components
 ### Power Supply
-        It is the main component of the whole system. It suppy power to all the components in the system.
+ It is the main component of the whole system. It suppy power to all the components in the system.
 
 ### Processor
-        Performs all the important operations cheaks wether supply voltage matches with the input voltage or not. 
+ Performs all the important operations cheaks wether supply voltage matches with the input voltage or not. 
 
 ### Voltage Adjusting Knob(Sensor)
-        This is the part where human sets the voltage he/she wants.
+ This is the part where human sets the voltage he/she wants.
 
 ### Relay(Actuator)
-        This is the part the microcontroller send signals to about what to do.
+ This is the part the microcontroller send signals to about what to do.
 
 ### Display
-        This shows the voltage which human wants enter.
+ This shows the voltage which human wants enter.
 
 ### Load
-        Its the equipments which human wants to protect from overvoltage or undervoltage
+ Its the equipments which human wants to protect from overvoltage or undervoltage
         
