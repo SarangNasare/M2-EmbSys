@@ -1,6 +1,11 @@
-# Electric Induction Cooker
-## Block DIagram
-![image](https://user-images.githubusercontent.com/98864424/154813418-aaad60e3-d6f4-43ae-8e06-40f946eb682a.png)
+# Vending Machine
+## Block Diagram
+![image](https://user-images.githubusercontent.com/98864424/154816160-7ace07f4-5b51-435c-b6a9-c77004530d59.png)
+
+
+## Introduction
+   The project is vending machine which allows people to get the items you want without any human help.
+
 
 ## Components
 ### Processor
@@ -9,20 +14,34 @@
 ### Memory
  Stores all the programs for the different recipes.
 
-### Temperature Sensor
- This is the part which cheaks the temeprature of the coil.
+### Money Saperator and counter
+ Saperate and count the money and send signal to processor. 
         
-### Buttons to choose the recipe
- Using different buttons the user selects the recipe which he/she whats to make.
+### Buttons to choose the program
+ Using different buttons the user selects the item which he/she whats to make.
 
 ### Display
  This shows the Programs which human has selected.
 
-### Coil
- Its the main heating elements using which food is cooked.
+### Item Output
+ It is the output for item will come out which coustmer wanted.
 
 ### Power Supply
  It is the main component of the whole system. It suppy power to all the components in the system.
 
-### Timer Circuit
- According to recipe the user has selected the timer circuit will give signal ro microcontroller when to stop.
+
+## Requirments
+### High level Requirements
+   | --ID | High level Requirements |
+   |:----------:|:--------------------:| 
+   | HLR1 | Take money form coustmer. |
+   | HLR2 | Take the code of an item from the user. |
+   | HLR3 | Give correct item and spare change to the coustmer |
+
+### Low level Requirements
+   | --ID | Low level Requirements |
+   |:----------:|:--------------------:| 
+   | LLR1 | Count and Verify money taken from coustmer. |
+   | LLR2 | Cheak the code entered the user is correct or not. |
+   | LLR3 | Run the proper program as per user code input. |
+   | LLR4 | calculate the cost of the item and give the spare change back to coustmer if there is any. |https://github.com/SarangNasare/M2-EmbSys.git
