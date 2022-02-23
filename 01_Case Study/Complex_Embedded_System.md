@@ -20,6 +20,7 @@
    | LLR3 | It shall Run the proper program as per user code input. |
    | LLR4 | It shall calculate the cost of the item and give the spare change back to coustmer if there is any. |
 
+
 ## Block Diagram
 ![image](https://user-images.githubusercontent.com/98864424/154816160-7ace07f4-5b51-435c-b6a9-c77004530d59.png)
 
