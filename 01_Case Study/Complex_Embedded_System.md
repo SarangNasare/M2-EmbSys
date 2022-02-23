@@ -15,11 +15,10 @@
 ### Low level Requirements
    | --ID | Low level Requirements |
    |:----------:|:--------------------:| 
-   | LLR1 | Count and Verify money taken from coustmer. |
-   | LLR2 | Cheak the code entered the user is correct or not. |
-   | LLR3 | Run the proper program as per user code input. |
-   | LLR4 | calculate the cost of the item and give the spare change back to coustmer if there is any. |https://github.com/SarangNasare/M2-EmbSys.git
-
+   | LLR1 | It shall Count and Verify money taken from coustmer. |
+   | LLR2 | It shall Cheak and verify the code entered the user is correct or not. |
+   | LLR3 | It shall Run the proper program as per user code input. |
+   | LLR4 | It shall calculate the cost of the item and give the spare change back to coustmer if there is any. |
 
 ## Block Diagram
 ![image](https://user-images.githubusercontent.com/98864424/154816160-7ace07f4-5b51-435c-b6a9-c77004530d59.png)
