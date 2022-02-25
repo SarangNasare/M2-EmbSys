@@ -1,7 +1,7 @@
 # Vending Machine
 
 ## Introduction
-   The project is vending machine which allows people to get the items you want without any human help.
+   The project is vending machine which allows people to get the items you want without any human help. A vending machine is an automated machine that provides items such as snacks, beverages and lottery tickets to consumers after cash
 
 
 ## Requirments
@@ -48,3 +48,7 @@
  It is the main component of the whole system. It suppy power to all the components in the system.
 
 
+## Application
+ Foods and Drinks
+ For tickets sale
+ For Lottery distribution
