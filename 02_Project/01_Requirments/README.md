@@ -19,7 +19,7 @@
   | LLR1 | It shall detect water level with the Use of ultrasonic sensor. |
   | LLR2 | It shall Turn off Motor when Water Tank is Full. |
   | LLR3 | It shall Turn off Motor when Water Tank is Full. |
-  | LLR4 | It shall display the condition of motor if it is on or off. |
+  | LLR4 | It shall display the status of motor if it is on or off. |
 
 # SWOT
  ## Strength
@@ -40,10 +40,10 @@
 
 # 5W and 1H
  ## Who
-  * Any persone who is in need of fast transaction.
+  * Any persone who is in need automaic system.
 
  ## What
-  * Automatic machine which can withdraw or deposit money easily.
+  * Automatic machine which can which chan turn on or off the motor whenever required.
 
  ## When
   * Available anytime.
@@ -52,4 +52,4 @@
   * Can be available at various places according to need.
 
  ## How
-  * Design and develope using c language to avoid complexity and to keep the machine simple for anyone to use.
+  * Design and develope using arduino and programmed using C language to avoid complexity and to keep the system simple and cost effective.
