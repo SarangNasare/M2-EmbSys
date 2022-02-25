@@ -49,6 +49,6 @@
 
 
 ## Application
- Foods and Drinks
- For tickets sale
- For Lottery distribution
+* Foods and Drinks
+* For tickets sale
+* For Lottery distribution
