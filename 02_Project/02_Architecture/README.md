@@ -22,3 +22,8 @@
 
 ### LED
  Shows the status of motor wether it is on or off.
+
+# Applications
+ * Gauge and Manage water levels in a water tank.
+ * Automating the conrol of motor.
+ * Save water or any other precious liquid material.
