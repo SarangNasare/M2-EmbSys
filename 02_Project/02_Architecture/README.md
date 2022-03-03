@@ -1,5 +1,5 @@
 # Block Diagram
-![image](https://user-images.githubusercontent.com/98864424/155778427-e6bb8611-769c-43f6-b392-620597583b84.png)
+![image](https://user-images.githubusercontent.com/98864424/156507846-e314e304-f9b8-42f6-978e-c925ed19bc1d.png)
 
 ## Components
 ### Ultrasonic sensor
@@ -14,14 +14,14 @@
 ### Water pump(motor)
  Pump is a mechanical device which converts the mechanical energy into the pressure energy. It creates the partial vacuum in the suction side and sucks the liquid which is delivered with high pressure at a required height.
 
-### Relay
- Relay is an electrically operated switch . Relay have 2-channels connected to the arduino, and in between the battery and the pump. The arduino commands to relay to switch-off the pump when the tank is fully filled. Simply, it acts as a circuit breaker.
-
 ### Power Supply
  It is the main component of the whole system. It suppy power to all the components in the system.
 
 ### LED
  Shows the status of motor wether it is on or off.
+
+### Resistors
+ to protect LED and complete the circuit.
 
 # Applications
  * Gauge and Manage water levels in a water tank.
