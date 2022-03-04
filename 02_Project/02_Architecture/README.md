@@ -23,6 +23,11 @@
 ### Resistors
  to protect LED and complete the circuit.
 
+ 
+# Flow Diagram
+ ![image](https://user-images.githubusercontent.com/98864424/156696478-3d8efbf2-6a88-48b3-81db-5a681a851dc9.png)
+
+
 # Applications
  * Gauge and Manage water levels in a water tank.
  * Automating the conrol of motor.
