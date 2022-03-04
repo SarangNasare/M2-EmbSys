@@ -1,6 +1,6 @@
 # Embedded System(Water Level Indicator)
 # Description
- water level indicator using ultrasonic sensor &arduino is an amazing and very useful project. the
+ Water level indicator using ultrasonic sensor &arduino is an amazing and very useful project. the
  objective of this project is to notify the user the amount of water that is present in the overhead water
  tank. this project can be further enhanced to control the water level in the tank by turning it on, when the
  water level is low, and turning it off when the water level is high. thus, the arduino water level indicator
@@ -9,13 +9,6 @@
 ## Badges
 ### Code Quality Codacy
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/36eeaf40f26a4eb2acadb2247b3d1e8d)](https://www.codacy.com/gh/SarangNasare/M2-EmbSys/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=SarangNasare/M2-EmbSys&amp;utm_campaign=Badge_Grade)
-
-# Description
- water level indicator using ultrasonic sensor &arduino is an amazing and very useful project. the
- objective of this project is to notify the user the amount of water that is present in the overhead water
- tank. this project can be further enhanced to control the water level in the tank by turning it on, when the
- water level is low, and turning it off when the water level is high. thus, the arduino water level indicator
- helps in preventing wastage of water in overhead tank.
 
 # Requirments
 ## High Level Requirments
