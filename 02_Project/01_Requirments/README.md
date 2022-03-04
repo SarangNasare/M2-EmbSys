@@ -11,14 +11,14 @@
 |:------------:|:-----------:|
  | HLR1 | Detecting the water level |
  | HLR2 | Turn off Motor when Water Tank is Full. |
- | HLR3 | Turn off Motor when Water Tank is Full. |
+ | HLR3 | Turn On Motor when Water Tank is empty. |
 
 ## Low Level Requirments
    | --ID | Desciption |
   |:------------:|:-----------:|
   | LLR1 | It shall detect water level with the Use of ultrasonic sensor. |
   | LLR2 | It shall Turn off Motor when Water Tank is Full. |
-  | LLR3 | It shall Turn off Motor when Water Tank is Full. |
+  | LLR3 | It shall Turn on Motor when Water Tank is empty. |
   | LLR4 | It shall display the status of motor if it is on or off. |
 
 # SWOT
