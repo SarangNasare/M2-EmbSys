@@ -114,7 +114,7 @@ digitalWrite(led5, HIGH);
 myservo.write(90);
 } else
 
-if( distance > 60 )//if water level is less than 100%
+if( distance > 60 )//if water level is 100%
 {
 digitalWrite(led1, LOW);
 digitalWrite(led2, LOW);
