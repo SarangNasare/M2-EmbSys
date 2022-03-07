@@ -7,6 +7,8 @@
  helps in preventing wastage of water in overhead tank.
 
 ## Badges
+### Cpp-Check
+[![Cpp-Check](https://github.com/SarangNasare/M2-EmbSys/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/SarangNasare/M2-EmbSys/actions/workflows/c-cpp.yml)
 ### Code Quality Codacy
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/36eeaf40f26a4eb2acadb2247b3d1e8d)](https://www.codacy.com/gh/SarangNasare/M2-EmbSys/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=SarangNasare/M2-EmbSys&amp;utm_campaign=Badge_Grade)
 
