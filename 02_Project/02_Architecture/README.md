@@ -1,5 +1,5 @@
 # Block Diagram
-![image](https://user-images.githubusercontent.com/98864424/156507846-e314e304-f9b8-42f6-978e-c925ed19bc1d.png)
+![image](https://user-images.githubusercontent.com/98864424/157204846-bc2ebc9f-81f3-4104-8787-1f1ec92d290a.png)
 
 ## Components
 ### Ultrasonic sensor
