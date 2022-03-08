@@ -106,7 +106,7 @@
 |:-----:|:--------------------------:|:--------------:|:-----------------:|:---------------:|:---------:|:-------:|
 | H1  | When tank is full| Value from ultasonic sensor | Motor Off | Motor Off |SUCCESS| Manual Test|
 | H2  | When tank is empty | Value from ultasonic sensor | Motor ON | Motor ON | SUCCESS | Manual Test|
-| H5  | When tank water level is less than 100% | Value from ultasonic sensor | Shown water level with the help of LED's | Shown water level with the help of LED's | SUCCESS | Manual Test|
+| H3  | When tank water level is less than 100% | Value from ultasonic sensor | Shown water level with the help of LED's | Shown water level with the help of LED's | SUCCESS | Manual Test|
 
 ### Low Level Testing
 | Test ID | Description of Test case | Input values | Expected Output | Actual Output | Status | Type of test |
